@@ -20,10 +20,13 @@ python -m venv venv
 ### 2. Ativação do ambiente virtual
 
 - **Windows**:
+
 ```bash
 venv\Scripts\activate
 ```
+
 - **Linux/macOS**:
+
 ```bash
 source venv/bin/activate
 ```
@@ -65,22 +68,23 @@ Desenvolvido pela equipe do filtro Sharpen, composta por:
 - Cláudio Zicri
 - Emerson Okorie
 - Joshua Strauss
-- Rafael Sampaio
 - Milena Constantino
-- Renata Vaz
+- Rafael Sampaio
 
 Como parte do projeto da disciplina **Programação e Plataformas de Alto Desempenho** - Unijorge.
-
 
 ## 🔁 Ativação e Desativação do Ambiente Virtual
 
 ### ▶️ Ativar
 
 - **Windows**:
+
 ```bash
 venv\Scripts\activate
 ```
+
 - **Linux/macOS**:
+
 ```bash
 source venv/bin/activate
 ```
